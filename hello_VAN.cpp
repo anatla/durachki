@@ -3,4 +3,4 @@ string print_VAN()
 {
 	return "Vasilyev Alexandr Nikolaevich";
 }
-// i'm dead inside.
+// я обито, а ты рин.
