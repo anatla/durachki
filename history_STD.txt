@@ -1,0 +1,202 @@
+    4  sudo apt-get install g++
+    5  ls
+    6  cd 'Рабочий стол'
+    7  ./count
+    8  ls
+    9  ./hello
+   10  gcc hello
+   11  g++ hello.cpp -o hello
+   12  g++ count.cpp -o count
+   13  cd 'Рабочий стол'
+   14  g++ count.cpp -o count
+   15  g++ hello.cpp -o hello
+   16  nano hello.cpp
+   17  cd
+   18  ls
+   19  cp hello.cpp 'Рабочий стол'
+   20  cd 'Рабочий стол'
+   21  nano count.cpp
+   22  gcc count.cpp
+   23  sudo apt install gcc
+   24  gcc count.cpp
+   25  gcc count
+   26  ls
+   27  ..count.cpp
+   28  count.cpp
+   29  g++ hello.cpp -o hello'
+   30  g++ hello.cpp -o hello
+   31  g++ hello.cpp -o hello
+   32  g++ count.cpp -o count
+   33  g++ hello.cpp -o hello
+   34  ./hello
+   35  g++ hello.cpp -o hello
+   36  gcc count.cpp hello.cpp -o count
+   37  nano hello.h
+   38  gcc count.cpp hello.cpp hello.h -o count
+   39  g++ count.cpp hello.cpp hello.h -o count
+   40  ./count
+   41  nano main.cpp
+   42  nano count.h
+   43  g++ main.cpp count.cpp hello.cpp hello.h count.h -o count
+   44  ./count
+   45  g++ main.cpp count.cpp hello.cpp hello.h count.h -o count
+   46  ./count
+   47  ./main
+   48  g++ main.cpp count.cpp hello.cpp hello.h count.h -o main
+   49  ./main
+   50  g++ main.cpp count.cpp hello.cpp hello.h count.h -o main
+   51  ./main
+   52  g++ main.cpp count.cpp hello.cpp hello.h count.h -o main
+   53  ./main
+   54  g++ main.cpp count.cpp hello.cpp hello.h count.h -o main
+   55  ./main
+   56  g++ main.cpp count.cpp hello.cpp hello.h count.h -o main
+   57  ./main
+   58  g++ main.cpp count.cpp hello.cpp hello.h count.h -o main
+   59  ./main
+   60  g++ main.cpp count.cpp hello.cpp hello.h count.h -o main
+   61  ./main
+   62  nano MakeFileWithOut
+   63  nano
+   64  make -f MakeFileWithOut
+   65  sudo apt install make
+   66  make -f MakeFileWithOut
+   67  ./main
+   68  nano MakeFileWithOut
+   69  make -f MakeFileWithOut
+   70  nano MakeFileWithOut
+   71  make -f MakeFileWithOut
+   72  nano MakeFileWithOut
+   73  make -f MakeFileWithOut
+   74  nano MakeFileWithOut
+   75  make -f MakeFileWithOut
+   76  make -f MakeFileWithOut hello.cpp
+   77  make -f MakeFileWithOut all
+   78  make -f MakeFileWithOut home
+   79  make -f MakeFileWithOut main
+   80  make -f MakeFileWithOut clean
+   81  nano MakeFileWithOut
+   82  make -f MakeFileWithOut clean
+   83  nano MakeFileWithOut
+   84  make -f MakeFileWithOut clean
+   85  nano MakeFileWithOut
+   86  make -f MakeFileWithOut clean
+   87  nano MakeFileWithOut
+   88  make -f MakeFileWithOut clean
+   89  nano MakeFileWithOut
+   90  make -f MakeFileWithOut clean
+   91  make -f MakeFileWithOut
+   92  nano MakeFileWithOut
+   93  make -f MakeFileWithOut
+   94  make -f MakeFileWithOut hello.cpp
+   95  make -f MakeFileWithOut hello.h
+   96  make -f MakeFileWithOut main.cpp
+   97  nano MakeFileWithOut
+   98  make -f MakeFileWithOut
+   99  nano MakeFileWithOut
+  100  make -f MakeFileWithOut
+  101  make -f MakeFileWithOut clean
+  102  nano MakeFileWithOut
+  103  make -f MakeFileWithOut clean
+  104  nano MakeFileWithOut
+  105  make -f MakeFileWithOut clean
+  106  nano ll
+  107  rm ll
+  108  make -f MakeFileWithOut
+  109  nano MakeFileWithOut
+  110  g++ main.cpp count.cpp hello.cpp hello.h count.h -o main
+  111  xrandr --newmode "1920x1080"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync
+  112  xrandr --addmode Virtual1 1920x1080
+  113  xrandr --output Virtual1 --mode 1920x1080
+  114  sudo apt update
+  115  xrandr --newmode "1920x1080"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync
+  116  xrandr --addmode Virtual1 1920x1080
+  117  xrandr --output Virtual1 --mode 1920x1080
+  118  sudo apt install git
+  119  git --version
+  120  git sttamerlan
+  121  git clone
+  122  ssh-keygen -t rsa -C tstepanov36@gmail.com
+  123  git config --global user.name sttamerlan
+  124  git config --global user.email tstepanov36@gmail.com
+  125  ssh -T git@github.com
+  126  git init
+  127  ls
+  128  cd 'рабочий стол'
+  129  cd 'Рабочий стол'
+  130  mkdir git
+  131  ls
+  132  cd git
+  133  git -- clone
+  134  git --clone
+  135  git --clone https://github.com/anatla/durachki
+  136  git clone https://github.com/anatla/durachki
+  137  ls
+  138  cd durachki
+  139  ls
+  140  nano hello_STD.cpp
+  141  nano fio.h
+  142  nano hello_STD.cpp
+  143  ls
+  144* nano hello_STD.cpp  
+  145  g++ hello_STD.cpp
+  146  nano fio.h
+  147  nano hello_STD.cpp
+  148  git status
+  149  git commit -a
+  150  git status
+  151  git commit -a fio.h hello_STD.cpp
+  152  git commit -a hello_STD.cpp
+  153  git status
+  154  ls
+  155  git add fio.h hello_STD.cpp
+  156  git commit
+  157  git status
+  158* git add 
+  159  git push
+  160  git pull
+  161  ls
+  162  nano hello_STD.cpp
+  163* g
+  164  nano hello_STD.cpp
+  165  git add fio.h hello_STD.cpp
+  166  git push
+  167  git pull
+  168  nano hello_STD.cpp
+  169  git add fio.h hello_STD.cpp
+  170  git commit
+  171  git add fio.h hello_STD.cpp
+  172  git commit
+  173  git pull
+  174  git add fio.h hello_STD.cpp
+  175  git commit
+  176  git push
+  177  git log
+  178  git reset --hard HEAD^1
+  179  git log
+  180  git history >> history_fio.txt
+  181  history >> history_fio.txt
+  182  ls
+  183* nano history_fio.txt               
+  184  git add history_fio.txt
+  185  git commit
+  186  git push
+  187  git pull
+  188  git commit
+  189  git push
+  190  git add history_fio.txt
+  191  git commit
+  192  git add history_fio.txt
+  193  git push
+  194  git pull
+  195  git push
+  196  git pull
+  197  git push
+  198  git pull
+  199  ls
+  200  g++ main.cpp
+  201* nano main.cp
+  202  git pull
+  203  ls
+  204  history >> history_STD.cpp
+  205  history >> history_STD.txt
